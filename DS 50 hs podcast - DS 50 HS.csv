@@ -1,0 +1,51 @@
+LEARN_MONTH,STUDENT_ID,CURRENT_GRADE,FULL_NAME,GVCN,Điểm AS T1,Điểm ES T1,Điểm ASM T1,Điểm PS T1,PSS T2,Thời gian quét dữ liệu PS
+01/01/2026,1092392,GRADE_3,Phạm Khánh An,hatt.gvcn,100,100,65,93,4,01/2026
+01/01/2026,459103,GRADE_5,Hoàng Thảo Quyên,hangltv.gvcn,63,88,65,73,"4,5",01/2026
+01/01/2026,1376727,GRADE_5,Nguyễn Thị Bảo Anh,vanct2.gvcn,83,94,78,86,4,01/2026
+01/01/2026,217408,GRADE_7,Hà Phương Anh,phuongdpt.gvcn,85,100,73,84,"4,8",01/2026
+01/01/2026,1449510,GRADE_8,Đào Minh Vương,hann1.cskh,83,94,50,75,5,01/2026
+01/01/2026,1443796,GRADE_2,Đỗ Hồng Phước,huongdm3.gvcn,100,100,93,99,5,01/2026
+01/01/2026,1447763,GRADE_1,Bùi Khánh Ngọc,linhnp.gvcn,100,100,0,80,4,01/2026
+01/01/2026,1420427,GRADE_9,Bảo  Quyên,linhtt.gvcn,90,100,73,87,4,01/2026
+01/01/2026,1388909,GRADE_2,Danh Lê Quốc Anh,lytth.gvcn,92,94,70,88,4,01/2026
+01/01/2026,1450210,GRADE_3,Minh  Khôi,ngocntb.gvcn,50,94,80,74,5,01/2026
+01/01/2026,1449997,GRADE_3,Nguyễn Kiến Minh,thaolp.gvcn,70,94,85,83,"4,4",01/2026
+01/01/2026,1447480,GRADE_5,Lê Duy Bằng,trangnt.gvcn,87,100,58,86,"4,3",01/2026
+01/01/2026,1448443,GRADE_3,Lê Duy Cường,trangnt.gvcn,100,100,68,94,"4,8",01/2026
+01/01/2026,1258888,GRADE_2,Nguyễn Hoàng Mai An,lytth.gvcn,92,100,0,77,4,01/2026
+01/01/2026,1374856,GRADE_1,Nguyễn Phương Linh,lytth.gvcn,80,94,63,82,4,01/2026
+01/01/2026,1115621,GRADE_4,Hoàng Lê Anh Trúc,quynhnt.gvcn,80,100,0,72,"4,3",01/2026
+01/01/2026,824858,GRADE_8,Trần Ánh Dương,hann1.cskh,93,100,63,85,4,01/2026
+01/01/2026,1067689,GRADE_7,Nguyễn Huy Cường,linhnp.gvcn,88,100,75,87,4,01/2026
+01/01/2026,344248,GRADE_2,Lê Duy Minh Đức,trangnt.gvcn,64,100,63,78,5,01/2026
+01/01/2026,1257167,GRADE_4,Nguyễn Hoàng Minh,ngocptb.gvcn,83,94,48,80,4,01/2026
+01/01/2026,1339366,GRADE_3,Đinh Thu Thủy,ngocptb.gvcn,80,100,60,84,4,01/2026
+01/01/2026,1228000,GRADE_2,Nguyễn Thành Đức,hienptt.gvcn,92,88,0,72,4,01/2026
+01/01/2026,1012565,GRADE_8,Vương Ngọc Quỳnh,tamnm.gvcn,80,90,60,76,"4,8",01/2026
+01/01/2026,1137706,GRADE_8,Trần Thị Ngọc,ngocptb.gvcn,85,100,50,78,4,01/2026
+01/01/2026,1390203,GRADE_7,Hoàng Bảo Hân Lớp 7,hiendt.gvcn,70,100,58,72,4,01/2026
+01/01/2026,1270292,GRADE_8,Đào Hải Long,tamnm.gvcn,78,96,70,79,"4,5",01/2026
+01/01/2026,1214336,GRADE_4,Nguyễn Hoàng Phúc Anh,hiendt.gvcn,93,84,73,85,5,01/2026
+01/01/2026,166819,GRADE_8,Đỗ Thị Thu Huyền,tamnm.gvcn,88,100,55,81,"4,5",01/2026
+01/01/2026,747343,GRADE_6,Lê  Nguyễn,tamnm.gvcn,100,100,73,92,"4,5",01/2026
+01/01/2026,850239,GRADE_8,Hồ Anh Kiệt,tamnm.gvcn,88,88,60,80,4,01/2026
+01/01/2026,1133534,GRADE_8,Thuận  Phong,vanct2.gvcn,78,100,63,78,"3,8",01/2026
+01/01/2026,1371368,GRADE_3,Gia  Nguyên,ngoclt.gvcn,53,96,58,71,"2,7",01/2026
+01/01/2026,1160550,GRADE_4,Châu Tiến Đạt,anhbp.gvcn,87,94,0,72,"3,8",01/2026
+01/01/2026,332851,GRADE_5,Nguyễn Hoàng Nhã Phương,ngoclt.gvcn,77,84,70,78,"2,7",01/2026
+01/01/2026,1449253,GRADE_6,Nguyễn Quang Bảo,anhltl.gvcn,40,94,0,39,3,01/2026
+01/01/2026,1436909,GRADE_3,Quang Anh Thư,anhltl.gvcn,97,36,0,53,"3,3",01/2026
+01/01/2026,1285519,GRADE_7,Trần Thị Thanh Minh 2013,quynhnt.gvcn,28,40,0,22,"3,3",01/2026
+01/01/2026,835299,GRADE_7,Trần Đức Tài,linhvtm.gvcn,55,40,0,36,"3,8",01/2026
+01/01/2026,1103689,GRADE_8,Lê Nhật Quang,quynhnt.gvcn,55,94,0,46,3,01/2026
+01/01/2026,1263875,GRADE_3,Vũ Ngọc Bảo My,trangnt.gvcn,70,82,63,73,"3,5",01/2026
+01/01/2026,1110727,GRADE_3,Lê Minh Quang,quynhnt.gvcn,47,74,0,48,"3,8",01/2026
+01/01/2026,1392742,GRADE_4,Lê Phùng Minh Tuệ,quynhnt.gvcn,93,84,60,83,"3,3",01/2026
+01/01/2026,1351073,GRADE_7,Lê Văn Bảo Nguyên,thaolp.gvcn,75,100,48,72,3,01/2026
+01/01/2026,1316708,GRADE_8,Vũ Thị Vân Trang,thaolp.gvcn,85,94,0,61,"3,8",01/2026
+01/01/2026,777590,GRADE_5,Lê Bảo Ngọc,trinhdk.gvcn,83,100,0,73,"3,3",01/2026
+01/01/2026,1406653,GRADE_6,Nguyễn Huy Hiệu,ngocvh.gvcn,0,84,0,17,"3,6",01/2026
+01/01/2026,1301411,GRADE_4,Trương Lạn Khanh,hienptt.gvcn,87,94,58,84,"3,8",01/2026
+01/01/2026,363157,GRADE_9,Đoàn Nguyễn Phát Đạt,ngocptb.gvcn,25,36,0,20,"3,5",01/2026
+01/01/2026,1405297,GRADE_7,Nguyễn Thái Nguyên,hienptt.gvcn,80,88,65,77,"3,8",01/2026
+01/01/2026,1413699,GRADE_7,Đào Đức Nghĩa,hiendt.gvcn,98,100,58,86,"3,8",01/2026
