@@ -12,7 +12,7 @@ def get_student_improve(db: Optional[Database], params: Dict[str, Any]):
     where_clause = "WHERE lms_student_id = :lms_student_id AND month_of_report = :month_of_report"
 
     query = f"""
-        SELECT improvement
+        SELECT improvement_parents
         FROM raw_tutor.student_monthly_highlight
         {where_clause}
     """
